@@ -1,0 +1,46 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+node_modules/
+coverage/
+yarn.lock
+coverage/
+# package-lock.json
+
+test-report.xml
+.scannerwork/
+.scannerwork/.sonar_lock
+.scannerwork/css-bundle/stylelintconfig.json
+.scannerwork/report-task.txt
+
+report-task.txt
+
+.npmrc
